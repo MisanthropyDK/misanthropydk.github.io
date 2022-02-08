@@ -1,0 +1,41 @@
+html, body {
+height: 100%;
+width: 100%;
+border: 0;
+background-color: #000   ;
+font-family:   fantasy ;
+}
+
+* {
+box-sizing: border-box;
+} 
+
+.header {
+padding: 15px;
+}
+
+.menu {
+width: 25%;
+float: left;
+padding: 15px;
+}
+
+.main {
+  width: 75%;
+  float: left;
+  padding: 15px;
+ text-align: center;
+}
+
+/* words */
+
+.heado {
+text-align: center;
+color: #FF0000;
+font-family: fangsong;
+}
+
+.infob {
+text-align: center;
+color: #bb5f62;
+}
